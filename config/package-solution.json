@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "name": "peak-web-part-client-side-solution",
+    "id": "a30d9516-2965-4493-92ee-e79b2b92a1d2",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/peak-web-part.sppkg"
+  }
+}
